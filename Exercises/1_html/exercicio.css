@@ -1,0 +1,26 @@
+body{
+  font-family: Arial;
+}
+
+h2 a{
+  text-decoration: none;
+  color: seagreen;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+.today{
+  color: darkred;
+  font-weight: 700;
+}
+
+.tomorrow{
+  color: darkblue;
+}
+
+p{
+  font-size: 20px;
+}
