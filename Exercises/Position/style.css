@@ -78,6 +78,11 @@ p{
  text-transform: uppercase; 
 }
 
+.intro-button:hover{
+  background: black;
+  font-weight: 700;
+}
+
 .subtitle{
   font-size: 60px;
   text-transform: uppercase;
